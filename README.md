@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 <!--
-**jonalynt/jonalynt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on to improve my coding skills.
 - 🌱 I’m currently learning multiple programming languages as I am interested in working as a back-end and front-end developer.
