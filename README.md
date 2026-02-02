@@ -1,5 +1,9 @@
 
-<h1 align="center"> Hi, I'm Jonalyn Tumpong! </h1>
+<h1 align="center"> Hello, World! </h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jonalynt&style=flat-square&color=blue" />
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/40b23241-8242-44b4-a6bf-c4ba675dd423" width="500">
@@ -10,10 +14,15 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&lines=IT+student+%7C+Network+%26+Cybersecurity+Enthusiast+%7C+Technical+Support" alt="Typing SVG" />
   </a>
 </p>
-
 <h3 align="center">
   <font color="white">Powered by brewed hot coffee ☕, home life 🏠, and a lot of sleep 😴</font>
 </h3>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,css,github,html,linux,figma,wordpress" />
+</p>
 
 ---
 
@@ -22,7 +31,27 @@
 - 🎓 BS Information Technology student majoring in **Network & Cybersecurity**
 - 🔧 Interested in **IT infrastructure, backend systems, and support**
 - 🤝 Comfortable working in **collaborative and cross-functional teams**
-- ☕ Fun fact: I love brewed hot coffee, staying at home, and sleeping. Yes — I am boring, and I embrace it.
+
+---
+
+<img src="https://img.shields.io/badge/-whoami-000080?style=for-the-badge&logoColor=white" />
+
+```bash
+user@github:~$ whoami
+Jonalyn Tumpong
+
+user@github:~$ role
+IT Student | Network & Cybersecurity | Technical Support
+
+user@github:~$ location
+Remote-ready 🌍
+
+user@github:~$ traits
+Reliable • Detail-oriented • Quiet learner
+
+user@github:~$ fuel
+☕ Brewed hot coffee
+```
 
 ---
 
@@ -35,28 +64,52 @@
 
 ---
 
-<img src="https://img.shields.io/badge/-Current%20Collaboration-000080?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Learning%20Progress-000080?style=for-the-badge&logoColor=white" />
 
-👥 **Group Collaboration – Java Student Developers**  
-🏭 **Company:** MotorPh  
-📂 **Repository** https://github.com/aasarmiento/OOP-Group15/tree/main
-
-- Working with a student development team using **Java**
-- Collaborating via **GitHub** for version control and project management
-- Contributing to system logic, troubleshooting, and backend-related tasks
-- Gaining real-world experience in **team-based software development**
+- 🔐 Networking Fundamentals ▓▓▓▓▓▓░░░░ 60%
+- 🛡 Cybersecurity Basics ▓▓▓▓▓░░░░░ 50%
+- 💻 Backend & IT Operations ▓▓▓▓▓▓░░░░ 60%
+- ☕ Java Collaboration ▓▓▓▓▓▓▓░░░ 70%
 
 ---
 
-<img src="https://img.shields.io/badge/-Technical%20Skills-000080?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Featured%20Projects-000080?style=for-the-badge&logoColor=white" />
 
-### 🌐 IT & Network Skills
+### 1️⃣ MotorPh Java Project
+
+📦 **Role**: System Integration  
+🛠 **Tech**: Java, GitHub, OOP Concepts  
+
+🔗 **Repository**:https://github.com/aasarmiento/OOP-Group15.git
+
+> A collaborative academic project focused on applying object-oriented programming concepts, teamwork, and version control in a real-world company scenario.
+
+---
+
+### 2️⃣ Advocacy Website | Sachet Scourge: Philippines Plastic Crisis
+
+📦 **Role**: Frontend Developer / UI-UX Designer  
+🛠 **Tech**: HTML, CSS, JavaScript, Figma, GitHub Pages
+
+*163 million plastic sachets are used daily in the Philippines.*  
+This website raises awareness about the single-use plastic crisis through data, visual storytelling, and clear calls to action.
+
+🔗 **Repository**:https://github.com/jonalynt/sachet-scourge.git
+
+🌐 **Live**:https://jonalynt.github.io/sachet-scourge/
+
+> A project combining web development, UX design, and environmental advocacy.
+---
+
+<img src="https://img.shields.io/badge/-Technical%20Skill%20Breakdown-000080?style=for-the-badge&logoColor=white" />
+
+### IT & Network Skills
 - Network troubleshooting & diagnostics  
 - Cable, internet, VoIP, and security system support  
 - Network topology design & simulation (Cisco Packet Tracer)  
 - Web hosting & backend system checks  
 - System provisioning & error isolation  
-- Basic cybersecurity principles & system administration  
+- Cybersecurity principles & system administration  
 - GitHub (repositories, collaboration, version control)
 
 ---
@@ -131,7 +184,18 @@
 
 ---
 
+<img src="https://img.shields.io/badge/-Certifications%20%26%20Goals-000080?style=for-the-badge&logoColor=white" />
+
+🎯 Planned / In Progress:
+- 📘 Networking Fundamentals Certification  
+- 🛡 Entry-level Cybersecurity Certification  
+- ☕ Java & Backend System Practice Projects  
+
+---
+
 <img src="https://img.shields.io/badge/-Connect%20With%20Me-000080?style=for-the-badge&logoColor=white" />
+
+  **💬 Interested in collaboration, remote work, or academic projects? Feel free to connect — I respond quietly, but reliably.**
 
 - 💼 LinkedIn: www.linkedin.com/in/jonalyn-tumpong
 - 📧 Email: <tumpongjonalyn.work@gmail.com>
@@ -148,14 +212,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20theory%2C%20there%20is%20no%20difference%20between%20theory%20and%20practice.%20In%20practice%2C%20there%20is." alt="Harsh Truth" />
 </p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonalynt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonalynt&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-</p>
-
+ 
 ---
 
 <h1 align="center"> “Quietly learning, steadily building, and always troubleshooting.” </h1>
