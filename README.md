@@ -2,11 +2,8 @@
 <h1 align="center"> Hello, World! </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonalynt&style=flat-square&color=blue" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/40b23241-8242-44b4-a6bf-c4ba675dd423" width="500">
+  <img <img width="3375" height="2934" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/fcf15d01-7bdd-48d5-b8f7-4036b41c6cb9" />
+>
 </p>
 
 <p align="center">
