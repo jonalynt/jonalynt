@@ -2,11 +2,6 @@
 <h1 align="center"> Hello, World! </h1>
 
 <p align="center">
-  <img <img width="3375" height="2934" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/fcf15d01-7bdd-48d5-b8f7-4036b41c6cb9" />
->
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=900&lines=IT+student+%7C+Network+%26+Cybersecurity+Enthusiast+%7C+Technical+Support" alt="Typing SVG" />
   </a>
