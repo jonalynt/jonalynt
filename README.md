@@ -56,15 +56,6 @@ user@github:~$ fuel
 
 ---
 
-<img src="https://img.shields.io/badge/-Learning%20Progress-000080?style=for-the-badge&logoColor=white" />
-
-- 🔐 Networking Fundamentals ▓▓▓▓▓▓░░░░ 60%
-- 🛡 Cybersecurity Basics ▓▓▓▓▓░░░░░ 50%
-- 💻 Backend & IT Operations ▓▓▓▓▓▓░░░░ 60%
-- ☕ Java Collaboration ▓▓▓▓▓▓▓░░░ 70%
-
----
-
 <img src="https://img.shields.io/badge/-Featured%20Projects-000080?style=for-the-badge&logoColor=white" />
 
 ### 1️⃣ MotorPh Java Project
@@ -91,80 +82,6 @@ This website raises awareness about the single-use plastic crisis through data, 
 🌐 **Live**:https://jonalynt.github.io/sachet-scourge/
 
 > A project combining web development, UX design, and environmental advocacy.
----
-
-<img src="https://img.shields.io/badge/-Technical%20Skill%20Breakdown-000080?style=for-the-badge&logoColor=white" />
-
-### IT & Network Skills
-- Network troubleshooting & diagnostics  
-- Cable, internet, VoIP, and security system support  
-- Network topology design & simulation (Cisco Packet Tracer)  
-- Web hosting & backend system checks  
-- System provisioning & error isolation  
-- Cybersecurity principles & system administration  
-- GitHub (repositories, collaboration, version control)
-
----
-
-### Web & Development Skills
-- Web hosting & repository management using GitHub  
-- CMS platforms: **WordPress, Wix**  
-- Basic coding knowledge:
-  - Java  
-  - HTML structure  
-  - CMS scripting  
-- UI/UX layout & web design:
-  - Figma  
-  - Adobe tools  
-- Backend troubleshooting for web elements & integrations  
-
----
-
-### Software & Digital Tools
-- CRM Systems:
-  - HubSpot  
-  - Salesforce  
-  - Oracle  
-  - Asana  
-  - Monday.com  
-- AI tools for productivity & idea generation  
-- Canva (graphic design & content creation)  
-- Microsoft Office Suite  
-- Google Workspace  
-- Property & booking platforms:
-  - Uplisting  
-  - PriceLabs  
-  - Airbnb  
-  - Booking.com  
-
----
-
-<img src="https://img.shields.io/badge/-Virtual%20Assistant%20%26%20Administrative%20Skills-000080?style=for-the-badge&logoColor=white" />
-
-- Email inbox management  
-- Calendar scheduling & appointment coordination  
-- Data entry, research & documentation  
-- File management & digital organization  
-- Customer communication (email, chat, phone)  
-- Task automation using online tools  
-- Report generation & performance tracking  
-- Multi-location operations coordination  
-- Cross-team communication & collaboration  
-
----
-
-<img src="https://img.shields.io/badge/-Sales%20%26%20Customer%20Service%20Skills-000080?style=for-the-badge&logoColor=white" />
-
-- Cold calling & lead generation  
-- Appointment setting & follow-ups  
-- Customer support:
-  - Technical  
-  - Hotel reservations  
-  - Retail  
-- Relationship building & rapport management  
-- Problem-solving & conflict resolution  
-- Strong English written & verbal communication  
-
 ---
 
 <img src="https://img.shields.io/badge/-Education-000080?style=for-the-badge&logoColor=white" />
