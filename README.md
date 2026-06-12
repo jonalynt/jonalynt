@@ -26,27 +26,6 @@
 
 ---
 
-<img src="https://img.shields.io/badge/-whoami-000080?style=for-the-badge&logoColor=white" />
-
-```bash
-user@github:~$ whoami
-Jonalyn Tumpong
-
-user@github:~$ role
-IT Student | Network & Cybersecurity | Technical Support
-
-user@github:~$ location
-Remote-ready 🌍
-
-user@github:~$ traits
-Reliable • Detail-oriented • Quiet learner
-
-user@github:~$ fuel
-☕ Brewed hot coffee
-```
-
----
-
 <img src="https://img.shields.io/badge/-Current%20Focus-000080?style=for-the-badge&logoColor=white" />
 
 -  Strengthening networking & cybersecurity fundamentals  
