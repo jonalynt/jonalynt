@@ -20,8 +20,8 @@
 
 <img src="https://img.shields.io/badge/-About%20Me-000080?style=for-the-badge&logoColor=white" />
 
--  BS Information Technology student majoring in **Network & Cybersecurity**
--  Interested in **IT infrastructure, backend systems, and support**
+-  3rd Year BS Information Technology student majoring in **Network & Cybersecurity**
+-  Interested in **IT infrastructure, backend systems, and web development**
 -  Comfortable working in **collaborative and cross-functional teams**
 
 ---
